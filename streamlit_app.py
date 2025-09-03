@@ -2,8 +2,8 @@ import streamlit as st
 import numpy as np
 import matplotlib.pyplot as plt
 
-st.set_page_config(page_title="Binary Decoder Activity", layout="wide")
-st.title("🧠 Binary Decoder Activity")
+st.set_page_config(page_title="Binary Decoder Activity 2", layout="wide")
+st.title("🧠 Binary Decoder Activity 2")
 
 st.markdown("""
 You're given 8 decimal numbers. Convert each to an **8-bit binary number** and enter your answers in the sidebar.  
